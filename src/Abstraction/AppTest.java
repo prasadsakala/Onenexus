@@ -22,7 +22,7 @@ public class AppTest {
 		pg.footers();
 		pg.displaylogo();
 		
-		System.out.println("------------------------------");
+		System.out.println("---------------------------------");
 		
 		//downcasting : NA
 		
